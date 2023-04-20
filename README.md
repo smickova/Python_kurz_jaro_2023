@@ -1,1 +1,0 @@
-# Python_kurz_jaro_2023
